@@ -33,6 +33,5 @@
 > <a href="https://ruslan-salikhov.atlassian.net/jira/software/c/projects/CW1/issues">Ссылка на найденные баги</a><br>
 > <a href="https://chlist.sitechco.ru/project/40826/checklist">Сслка на чек листы<a/>
 
-
  <p>Выводы (итоги):<p>
 <ol>
