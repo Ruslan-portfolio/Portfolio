@@ -31,7 +31,7 @@
 > <a href="https://ruslan-salikhov.atlassian.net/wiki/spaces/~63a89326082abdd71bb4a792/pages/5308417">Ссылка на отчет о тестировании</a><br>
 > <a href="https://app.qase.io/project/COURSEWORK">Ссылка на тест кейсы</a><br>
 > <a href="https://ruslan-salikhov.atlassian.net/jira/software/c/projects/CW1/issues">Ссылка на найденные баги</a><br>
-> <a href="https://chlist.sitechco.ru/project/40826/checklist">
+> <a href="https://chlist.sitechco.ru/project/40826/checklist">Сслка на чек листы<a/>
 
 
  <p>Выводы (итоги):<p>
