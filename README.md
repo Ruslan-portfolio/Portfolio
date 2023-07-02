@@ -16,11 +16,12 @@
   <li>Задача №4. Составить отчет</li>
 </ol>
 <p>Как решала: 
-1. <li>Тестирование требований</li>
-2. Smoke - тестирование
-3. Регрессионное тестирование
-4. функциональное тетирование
-5. Тестирование API<p>
+<li>1. Тестирование требований</li>
+<li>2. Smoke - тестирование</li>
+<li>3. Регрессионное тестирование</li>
+<li>4. функциональное тетирование</li>
+<li>5. Тестирование API</li>
+  </p>
 
 > <a href="https://testqa35.atlassian.net/wiki/spaces/MP/pages/33272/EX1+1](https://ruslan-salikhov.atlassian.net/wiki/spaces/~63a89326082abdd71bb4a792/pages/2424833/1+2)">Ссылка на проект</a>
 > <a href="https://ruslan-salikhov.atlassian.net/wiki/spaces/~63a89326082abdd71bb4a792/pages/5308417">Ссылка на отчет о тестировании</a>
