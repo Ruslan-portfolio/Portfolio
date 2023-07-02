@@ -28,8 +28,10 @@
   </p>
 
 > <a href="https://testqa35.atlassian.net/wiki/spaces/MP/pages/33272/EX1+1](https://ruslan-salikhov.atlassian.net/wiki/spaces/~63a89326082abdd71bb4a792/pages/2424833/1+2)">Ссылка на проект</a><br>
-> <a href="https://ruslan-salikhov.atlassian.net/wiki/spaces/~63a89326082abdd71bb4a792/pages/5308417">Ссылка на отчет о тестировании</a>
-
+> <a href="https://ruslan-salikhov.atlassian.net/wiki/spaces/~63a89326082abdd71bb4a792/pages/5308417">Ссылка на отчет о тестировании</a><br>
+> <a href="https://app.qase.io/project/COURSEWORK">Ссылка на тест кейсы</a><br>
+> <a href="https://ruslan-salikhov.atlassian.net/jira/software/c/projects/CW1/issues">Ссылка на найденные баги</a><br>
+> <a href="https://chlist.sitechco.ru/project/40826/checklist">
 
 
  <p>Выводы (итоги):<p>
