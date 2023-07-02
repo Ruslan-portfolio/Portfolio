@@ -1,4 +1,4 @@
-<h1>Портфолио: инженер по тестированию</h1>
+# Портфолио: инженер по тестированию
 
 Обо мне 
 Привет! Меня зовут Руслан, я начинающий тестировщик. <br>
@@ -26,6 +26,8 @@
   <li>4. функциональное тетирование</li>
   <li>5. Тестирование API</li>
   </p>
+  
+#### Ссылки на проект
 
 > <a href="https://testqa35.atlassian.net/wiki/spaces/MP/pages/33272/EX1+1](https://ruslan-salikhov.atlassian.net/wiki/spaces/~63a89326082abdd71bb4a792/pages/2424833/1+2)">Ссылка на проект</a><br>
 > <a href="https://ruslan-salikhov.atlassian.net/wiki/spaces/~63a89326082abdd71bb4a792/pages/5308417">Ссылка на отчет о тестировании</a><br>
