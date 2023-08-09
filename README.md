@@ -48,9 +48,9 @@
 
 > <a href="https://ruslan-salikhov.atlassian.net/wiki/spaces/~63a89326082abdd71bb4a792/pages/2424833/1+2">Ссылка на проект</a><br>
 > <a href="https://ruslan-salikhov.atlassian.net/wiki/spaces/~63a89326082abdd71bb4a792/pages/5308417">Ссылка на отчет о тестировании</a><br>
-> <a href="https://app.qase.io/project/COURSEWORK">Ссылка на тест кейсы</a><br>
-> <a href="https://ruslan-salikhov.atlassian.net/jira/software/c/projects/CW1/issues">Ссылка на найденные баги</a><br>
-> <a href="https://chlist.sitechco.ru/project/40826/checklist">Сслка на чек листы<a/>
+> <a href="https://docs.google.com/document/d/1oEJUpwsRJKCUJn3yH41j3YkhYNLpAQ-mvR6LGRLjEfQ/edit?usp=sharing">Ссылка на тест кейсы</a><br>
+> <a href="https://docs.google.com/document/d/18vE9qr2QmY6H5Z6FDlyDs4BMSTOpMgkUHCwVfoHhKsg/edit?usp=sharing">Ссылка на найденные баги</a><br>
+> <a href="https://docs.google.com/document/d/1e-hHMpFHEp5-nY0U-kEwHhAxM_6IjmTM0CZQYQt5i2k/edit?usp=sharing">Сслка на чек листы<a/>
 
 ## Контактная информация
 - Email: Ruslik66666@mail.ru
